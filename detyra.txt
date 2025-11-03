@@ -1,0 +1,7 @@
+11. Regjistrimi i punëtorëve
+
+Frontend: Formë për emrin, pozitën dhe departamentin e punëtorëve. Shfaq listën e punëtorëve.
+
+Backend: Ruaj, lexo dhe modifiko/fshi punëtorët.
+
+Database: punetoret (id, emri, pozita, departamenti)
